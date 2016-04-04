@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/maintainer%20needed-!-red.svg)
 # webpack-sri
 Subresource Integrity hash generator plugin for Webpack
 
